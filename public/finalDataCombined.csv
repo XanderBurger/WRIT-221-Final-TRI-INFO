@@ -35,7 +35,7 @@ Arsenic,TRI,140019.06
 Atrazine,TRI,0.008
 Barium And Barium Compounds,TRI,67904.02
 Benzene,TRI,253910.34552
-"Benzo[g,h,i]perylene",PBT,284.474
+"Benzo(g,h,i)perylene",PBT,284.474
 Benzoyl peroxide,TRI,0.005
 Beryllium And Beryllium Compounds,TRI,2751.0
 Biphenyl,TRI,48730.737
@@ -63,7 +63,7 @@ Chromium,TRI,3112272.174
 Cobalt,TRI,72482.91
 Copper,TRI,772484.8542920001
 Creosote,TRI,0.091
-Cresol (mixed isomers),TRI,426808.097
+Cresol,TRI,426808.097
 Crotonaldehyde,TRI,2849.0
 Cumene hydroperoxide,TRI,26672.161
 Cyanide and Cyanide compounds,TRI,5551903.000999999
@@ -94,13 +94,13 @@ Heptachlor,PBT,0.012
 Hexachlorobenzene,PBT,0.04
 Hexachloroethane,TRI,202.0
 Hexafluoropropylene oxide dimer acid,TRI,6593.0
-"Hydrochloric acid",TRI,677.94
+Hydrochloric acid,TRI,677.94
 Hydrogen cyanide,TRI,621638.763
 Hydrogen fluoride,TRI,557723.45
 Hydrogen sulfide,TRI,9339597.54
 Hydroquinone,TRI,329096.008
 Isobutyraldehyde,TRI,212939.0
-Lead and Leand compounds,PBT,408082.07438600005
+Lead and Lead compounds,PBT,408082.07438600005
 Lindane,TRI,0.008
 Malathion,TRI,0.007
 Maleic anhydride,TRI,59333.039
