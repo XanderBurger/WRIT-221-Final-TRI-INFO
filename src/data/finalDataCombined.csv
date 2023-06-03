@@ -30,14 +30,14 @@ Allyl alcohol,TRI,276509.007
 Ammonia,TRI,28519578.355
 Aniline,TRI,2757394.542
 Anthracene,TRI,267.12800000000004
-Antimony And Antimony Compounds,TRI,19214.0
+Antimony & Antimony Compounds,TRI,19214.0
 Arsenic,TRI,140019.06
 Atrazine,TRI,0.008
-Barium And Barium Compounds,TRI,67904.02
+Barium & Barium Compounds,TRI,67904.02
 Benzene,TRI,253910.34552
 Benzoperylene,PBT,284.474
 Benzoyl peroxide,TRI,0.005
-Beryllium And Beryllium Compounds,TRI,2751.0
+Beryllium & Beryllium Compounds,TRI,2751.0
 Biphenyl,TRI,48730.737
 Bis(2-chloroethyl) ether,TRI,2.0
 Boron trifluoride,TRI,314893.0
@@ -66,7 +66,7 @@ Creosote,TRI,0.091
 Cresol,TRI,426808.097
 Crotonaldehyde,TRI,2849.0
 Cumene hydroperoxide,TRI,26672.161
-Cyanide and Cyanide compounds,TRI,5551903.000999999
+Cyanide & Cyanide Compunds,TRI,5551903.000999999
 Cyclohexane,TRI,96671.412
 Cyclohexanol,TRI,1352997.1
 Di(2-ethylhexyl) phthalate,TRI,10240.226
@@ -82,7 +82,7 @@ Diisocyanates,TRI,1064.4
 Dimethyl phthalate,TRI,23797.005
 Dimethylamine,TRI,26954.02
 Dinitrobutyl phenol,TRI,68681.06
-Dioxin and dioxin-like compounds,Dioxin,0.4603816976
+Dioxin & dioxin-like Compunds,Dioxin,0.4603816976
 Diphenylamine,TRI,864.009
 Epichlorohydrin,TRI,23794.006
 Ethyl acrylate,TRI,2839.968
@@ -100,11 +100,11 @@ Hydrogen fluoride,TRI,557723.45
 Hydrogen sulfide,TRI,9339597.54
 Hydroquinone,TRI,329096.008
 Isobutyraldehyde,TRI,212939.0
-Lead and Lead compounds,PBT,408082.07438600005
+Lead & Lead Compunds,PBT,408082.07438600005
 Lindane,TRI,0.008
 Malathion,TRI,0.007
 Maleic anhydride,TRI,59333.039
-Manganese and Manganese compounds,TRI,9198604.659816
+Manganese & Manganese Compunds,TRI,9198604.659816
 Mercury,PBT,740.03491
 Methacrylonitrile,TRI,35334.0
 Methanol,TRI,15169526.773
@@ -120,9 +120,9 @@ Molybdenum trioxide,TRI,279392.0
 N-Dimethylformamide,TRI,788111.621
 N-Methyl-2-pyrrolidone,TRI,5383535.027
 Naphthalene,TRI,457263.56500000006
-Nickel And Nickel Compounds,TRI,566613.6072
-Nicotine and salts,TRI,0.015
-Nitrate and Nitrate compounds,TRI,34138341.122291
+Nickel & Nickel Compounds,TRI,566613.6072
+Nicotine & salts,TRI,0.015
+Nitrate & Nitrate Compunds,TRI,34138341.122291
 Nitric acid,TRI,7426541.591000001
 Nitrilotriacetic acid,TRI,1780.0
 Nitrobenzene,TRI,283215.01
@@ -140,32 +140,31 @@ Phenol,TRI,1356879.2859999998
 Phthalic anhydride,TRI,36741.027
 Picric acid,TRI,80469.0
 Polychlorinated biphenyls,PBT,0.19
-Polycyclic aromatic compounds,PBT,20017.257
+Polycyclic aromatic Compunds,PBT,20017.257
 Propachlor,TRI,0.024
 Propargyl alcohol,TRI,0.005
 Propionaldehyde,TRI,129052.7
 Propylene,TRI,49546.0
 Pyridine,TRI,528054.11
-Selenium compounds,TRI,25175.09
-Silver And Silver Compounds,TRI,9421.53
+Selenium Compunds,TRI,25175.09
+Silver & Silver Compounds,TRI,9421.53
 Sodium dicamba,TRI,1.0
 Sodium nitrite,TRI,1413713.2
 Styrene,TRI,198566.396
 Tetrachloroethylene,TRI,3.4090000000000003
-Thallium compounds,TRI,15.0
+Thallium Compunds,TRI,15.0
 Toluene diisocyanate,TRI,233615.308759
 Toxaphene,PBT,34.007
 Trichloroethylene,TRI,0.112
 Triethylamine,TRI,433.139
 Urethane,TRI,0.232
-Vanadium compounds,TRI,1500415.002597
+Vanadium Compunds,TRI,1500415.002597
 Vinyl acetate,TRI,146856.045
 Vinyl chloride,TRI,0.005
 Vinylidene chloride,TRI,0.005
-Warfarin and salts,TRI,0.027
+Warfarin & salts,TRI,0.027
 Xylene,TRI,314383.280118
-Zinc,TRI,46.15
-Zinc compounds,TRI,8224749.161599999
+Zinc & Zinc Compounds,TRI,8224795.311599999
 m-Cresol,TRI,587226.0
 n-Butyl alcohol,TRI,754292.3219999999
 n-Hexane,TRI,252390.978
