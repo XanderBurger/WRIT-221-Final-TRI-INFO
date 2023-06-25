@@ -1,6 +1,5 @@
 import React from 'react'
 import { ReactP5Wrapper } from "react-p5-wrapper";
-import csvData from "/Users/xanderburger/dataViz/toxicsReleaseInventory/site/src/Assets/data/finalDataCombinedRounded.csv"
 import topAirData from "/Users/xanderburger/dataViz/toxicsReleaseInventory/site/src/Assets/data/dataByDisposalType/topAir.csv"
 import topLandData from "/Users/xanderburger/dataViz/toxicsReleaseInventory/site/src/Assets/data/dataByDisposalType/topLand.csv"
 import topLandfillData from "/Users/xanderburger/dataViz/toxicsReleaseInventory/site/src/Assets/data/dataByDisposalType/topLandfill.csv"
