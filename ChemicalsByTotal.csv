@@ -1,0 +1,547 @@
+Chemical,Metal,Carcinogen,PBT,PFAS,Units,Air,Water,Landfill,Underground Wells,Land Treatment,Surface Impoundment,Recycled
+"1,1,1,2-Tetrachloro-2-fluoroethane (HCFC-121a)",NO,NO,NO,NO,Pounds,1940.0,0.0,15885.0,0.0,0.0,0.0,0.0
+"1,1,1,2-Tetrachloroethane",NO,YES,NO,NO,Pounds,5371.219999999999,66.0,0.0,0.0,0.0,0.0,583410.0
+"1,1,1-Trichloroethane",NO,NO,NO,NO,Pounds,41116.325999999994,454.0,54.263999999999996,0.094,0.0,0.0,30639.0
+"1,1,2,2-Tetrachloroethane",NO,YES,NO,NO,Pounds,2865.952,0.0,8.907,3.007,0.0,0.0,811775.82
+"1,1,2-Trichloroethane",NO,NO,NO,NO,Pounds,22528.325,96.7395,23.117,1.015,0.0,0.0,327819.0
+"1,1-Dichloro-1-fluoroethane (HCFC-141b)",NO,NO,NO,NO,Pounds,5671.1,148.0,0.0,0.0,0.0,0.0,0.0
+"1,1-Dimethylhydrazine",NO,YES,NO,NO,Pounds,2.0119999999999996,0.0,0.0,0.0,0.0,0.0,0.0
+"1,2,3-Trichloropropane",NO,YES,NO,NO,Pounds,1589.0,3010.0,0.0,0.0,0.0,0.0,165358.0
+"1,2,4-Trichlorobenzene",NO,NO,NO,NO,Pounds,8685.15,0.0,0.2,23613.0,0.0,0.0,20467.0
+"1,2,4-Trimethylbenzene",NO,NO,NO,NO,Pounds,3782014.717891,1160.576,75865.144,151094.35526399998,85.99600000000001,21.7,2988154.38278
+"1,2-Butylene oxide",NO,YES,NO,NO,Pounds,2060.083,2.0,0.0,0.0,0.0,0.0,0.0
+"1,2-Dibromo-3-chloropropane",NO,YES,NO,NO,Pounds,0.111,0.0,0.0,0.0,0.0,0.0,0.0
+"1,2-Dibromoethane",NO,YES,NO,NO,Pounds,553.51,70.0,0.0,0.0,0.0,0.0,0.0
+"1,2-Dichloro-1,1,2-trifluoroethane (HCFC-123a)",NO,NO,NO,NO,Pounds,98461.56,0.0,0.0,0.0,0.0,0.0,0.0
+"1,2-Dichloro-1,1-difluoroethane (HCFC-132b)",NO,NO,NO,NO,Pounds,22809.0,13.0,0.0,0.0,0.0,0.0,0.0
+"1,2-Dichlorobenzene",NO,NO,NO,NO,Pounds,20776.8,5.0,9.02,23851.0,0.0,0.0,151.0
+"1,2-Dichloroethane",NO,YES,NO,NO,Pounds,410308.343,4022.142,436.979,43649.117,0.0,0.0,752139.2
+"1,2-Dichloroethylene",NO,NO,NO,NO,Pounds,42307.83,30.0,4.27,0.0,0.0,0.0,742070.0
+"1,2-Dichloropropane",NO,YES,NO,NO,Pounds,18271.28708,291.691,12.01,0.0,0.0,0.0,302451.4283
+"1,2-Diphenylhydrazine",NO,YES,NO,NO,Pounds,3.03,0.0,0.0,0.0,0.0,0.0,0.0
+"1,2-Phenylenediamine",NO,YES,NO,NO,Pounds,159.11953,0.1,0.0,2.047584,0.0,0.0,0.0
+"1,3-Butadiene",NO,YES,NO,NO,Pounds,1203608.4628,773.34,1179.004,1446.2,1.0,0.0,1542306.09372
+"1,3-Dichlorobenzene",NO,NO,NO,NO,Pounds,3.0010399999999997,0.0,0.0,0.0,0.0,0.0,137.0
+"1,3-Dichloropropylene",NO,YES,NO,NO,Pounds,3414.024,3045.0,58000.0,0.0,0.0,0.0,18007.0
+"1,3-Phenylenediamine",NO,NO,NO,NO,Pounds,1707.6100000000001,0.0,2059.0,0.0,0.0,0.0,541.3
+"1,3-Propane sultone",NO,YES,NO,NO,Pounds,2.63,0.0,0.0,0.0,0.0,0.0,0.0
+"1,4-Dichloro-2-butene",NO,NO,NO,NO,Pounds,2445.014,98.0,0.0,3170.2,0.0,0.0,0.0
+"1,4-Dichlorobenzene",NO,YES,NO,NO,Pounds,28593.85,5.0,656.25,429.77,0.0,0.0,843.6768
+"1,4-Dioxane",NO,YES,NO,NO,Pounds,74740.131922,65341.67,70655.493,503266.012,0.0,0.0,5829.5409
+"1-(3-Chloroallyl)-3,5,7-triaza-1-azoniaadamantane chloride",NO,NO,NO,NO,Pounds,0.0,0.0,58000.0,0.0,0.0,0.0,0.0
+1-Bromopropane,NO,YES,NO,NO,Pounds,786718.2936,0.0,14436.0,10.0,0.0,0.0,106489.59
+"1-Chloro-1,1,2,2-tetrafluoroethane (HCFC-124a)",NO,NO,NO,NO,Pounds,3723.873,0.0,0.0,0.0,0.0,0.0,0.0
+"1-Chloro-1,1-difluoroethane (HCFC-142b)",NO,NO,NO,NO,Pounds,116800.8,3721.0,0.0,0.0,0.0,0.0,0.0
+"1-Octanesulfonamide, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-(2-hydroxyethyl)-N-methyl-",NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"1-Octanesulfonamide, 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-N-methyl-",NO,NO,NO,YES,Pounds,0.0,0.8,0.0,0.0,0.0,0.0,0.0
+"1-Propanaminium, 2-hydroxy-N,N,N-trimethyl-, 3-[(γ-ω-perfluoro-C6-20-alkyl)thio] derivs., chlorides",NO,NO,NO,YES,Pounds,0.0,0.0,3000.0,0.0,0.0,0.0,0.0
+"1-Propanaminium, 3-amino-N-(carboxymethyl)-N,N-dimethyl-, N-[2-[(γ-ω-perfluoro-C4-20-alkyl)thio]acetyl] derivs., inner salts",NO,NO,NO,YES,Pounds,0.0,0.0,3000.0,0.0,0.0,0.0,0.0
+"1-Propanaminium, N,N,N-trimethyl-3-[[(pentadecafluoroheptyl)sulfonyl]amino]-, iodide",NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"1-Propanaminium, N,N,N-trimethyl-3-[[(tridecafluorohexyl)sulfonyl]amino]-, iodide",NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"1-Propanaminium, N,N,N-trimethyl-3-[[(undecafluoropentyl)sulfonyl]amino]-, iodide",NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"1-Propanesulfonic acid, 2-methyl-, 2-[[1-oxo-3-[(γ-ω-perfluoro-C4-16-alkyl)thio]propyl]amino] derivs., sodium salts",NO,NO,NO,YES,Pounds,0.0,0.0,24000.0,0.0,0.0,0.0,0.0
+"2,2-Bis(bromomethyl)-1,3-propanediol",NO,YES,NO,NO,Pounds,95.03,0.0,19102.35,0.0,0.0,0.0,0.0
+"2,2-Dichloro-1,1,1-trifluoroethane (HCFC-123)",NO,NO,NO,NO,Pounds,58227.886,0.0,0.0,0.0,0.0,0.0,10.0
+"2,3-Dichloropropene",NO,NO,NO,NO,Pounds,2897.0,0.0,0.0,0.0,0.0,0.0,31844.0
+"2,4,5-Trichlorophenol",NO,NO,NO,NO,Pounds,7.039999999999999,0.0,0.0,0.0,0.0,0.1,171.0
+"2,4,6-Trichlorophenol",NO,YES,NO,NO,Pounds,310.14021299999996,0.0,2.0,0.0,0.0,0.0,177.002
+"2,4-D",NO,YES,NO,NO,Pounds,1305.921,231.02,1841.46,0.027,40.0,0.0,625.0
+"2,4-D 2-butoxyethyl ester",NO,YES,NO,NO,Pounds,41.69,0.0,2.86,0.0,0.0,0.0,0.0
+"2,4-D 2-ethylhexyl ester",NO,YES,NO,NO,Pounds,4442.5,461.5,12.0,0.0,0.0,0.0,0.0
+"2,4-D butyl ester",NO,YES,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"2,4-D sodium salt",NO,YES,NO,NO,Pounds,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+"2,4-DB",NO,NO,NO,NO,Pounds,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+"2,4-Diaminotoluene",NO,YES,NO,NO,Pounds,674.0,0.0,786.0,10.0,0.0,0.0,0.0
+"2,4-Dichlorophenol",NO,NO,NO,NO,Pounds,45.318,0.0,7699.0,100455.0,0.0,0.0,0.0
+"2,4-Dimethylphenol",NO,NO,NO,NO,Pounds,10072.1155,367.723,425.0,933329.0,0.0,0.0,9.6
+"2,4-Dinitrophenol",NO,NO,NO,NO,Pounds,5.0,0.0,0.0,223286.0,0.0,0.0,0.0
+"2,4-Dinitrotoluene",NO,YES,NO,NO,Pounds,2176.385,0.0,0.011,0.01,0.0,0.0,6.1
+"2,6-Dinitrotoluene",NO,YES,NO,NO,Pounds,496.424,0.0,0.0,0.0,0.0,0.0,0.0
+"2,6-Xylidine",NO,YES,NO,NO,Pounds,114.0,0.0,0.0,0.0,0.0,0.0,0.0
+"2-Chloro-1,1,1,2-tetrafluoroethane (HCFC-124)",NO,NO,NO,NO,Pounds,92848.15800000001,0.0,0.0,0.0,0.0,0.0,0.0
+"2-Chloro-1,1,1-trifluoroethane (HCFC-133a)",NO,NO,NO,NO,Pounds,20292.092,36.0,0.0,0.0,0.0,0.0,0.0
+2-Ethoxyethanol,NO,NO,NO,NO,Pounds,32373.745000000003,0.0,135.013,0.012,0.0,0.0,4889.43
+2-Mercaptobenzothiazole,NO,YES,NO,NO,Pounds,1385.77,1397.0,4886.4,0.0,0.0,0.0,6104.0
+2-Methoxyethanol,NO,NO,NO,NO,Pounds,4163.41,5.0,195.0,0.0,0.0,0.0,1875.6
+2-Methyllactonitrile,NO,NO,NO,NO,Pounds,8231.7,0.0,0.0,293279.0,0.0,0.0,0.0
+2-Methylpyridine,NO,NO,NO,NO,Pounds,5798.38,0.0,9.0,42955.0,0.0,0.0,0.0
+2-Nitrophenol,NO,NO,NO,NO,Pounds,0.0,121.0,0.0,4323.0,0.0,0.0,0.0
+2-Nitropropane,NO,YES,NO,NO,Pounds,20253.02,0.0,0.0,0.0,0.0,0.0,0.0
+2-Phenylphenol,NO,NO,NO,NO,Pounds,28.13,0.0,0.0,0.0,0.0,0.0,0.0
+"2-Propenoic acid, 2-methyl-, octadecyl ester, polymer with 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,12-heneicosafluorododecyl 2-propenoate, 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl 2-propenoate and 3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,11,11,12,12,13,13,14,14,14-pentacosafluorotetradecyl 2-propenoate",NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"2-Propenoic acid, butyl ester, telomer with 2-[[(heptadecafluorooctyl)sulfonyl]methylamino]ethyl 2-propenoate, 2-[methyl[(nonafluorobutyl)sulfonyl]amino]ethyl 2-propenoate, α-(2-methyl-1-oxo-2-propenyl)-ω-hydroxypoly(oxy-1,4-butanediyl), α-(2-methyl-1-oxo-2-propenyl)-ω-[(2-methyl-1-oxo-2-propenyl)oxy]poly(oxy-1,4-butanediyl), 2-[methyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl 2-propenoate, 2-[methyl[(tridecafluorohexyl)sulfonyl]amino]ethyl 2-propenoate, 2-[methyl[(undecafluoropentyl)sulfonyl]amino]ethyl 2-propenoate and 1-octanethiol",NO,NO,NO,YES,Pounds,0.41,0.0,0.0,0.0,0.0,0.0,0.0
+"2-Propenoic acid, esters, 2-methyl-, dodecyl ester, polymer with α-fluoro-ω-[2-[(2-methyl-1-oxo-2-propen-1-yl)oxy]ethyl]poly(difluoromethylene)",NO,NO,NO,YES,Pounds,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+2-[[(Heptadecafluorooctyl)sulfonyl]methylamino]ethyl acrylate,NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"3,3'-Dichlorobenzidine",NO,YES,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"3,3'-Dichlorobenzidine dihydrochloride",NO,YES,NO,NO,Pounds,4.859999999999999,0.0,0.0,0.0,0.0,0.0,0.0
+"3,3'-Dimethoxybenzidine",NO,YES,NO,NO,Pounds,16.04,0.0,0.0,0.0,0.0,0.0,0.0
+"3,3'-Dimethoxybenzidine dihydrochloride",NO,YES,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"3,3'-Dimethylbenzidine",NO,YES,NO,NO,Pounds,15.74,0.0,0.0,0.0,0.0,0.0,0.0
+"3-Chloro-1,1,1-trifluoropropane (HCFC-253fb)",NO,NO,NO,NO,Pounds,2291.6200000000003,0.0,0.0,0.0,0.0,0.0,0.0
+3-Chloro-2-methyl-1-propene,NO,YES,NO,NO,Pounds,373.0,0.0,0.0,0.0,0.0,0.0,0.0
+3-Chloropropionitrile,NO,NO,NO,NO,Pounds,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+3-Iodo-2-propynyl butylcarbamate,NO,NO,NO,NO,Pounds,993.63,0.0,12725.28,0.0,326.6,0.0,486.207
+"3-[[(Heptadecafluorooctyl)sulfonyl]amino]-N,N,N-trimethyl-1-propanaminium iodide",NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"4,4'-Diaminodiphenyl ether",NO,YES,NO,NO,Pounds,255.26,404.0,141.0,0.0,0.0,0.0,0.0
+"4,4'-Isopropylidenediphenol",NO,NO,NO,NO,Pounds,43579.354,1630.55,2987431.6500979997,0.0,3896.0,0.0,817300.4299999999
+"4,4'-Methylenebis(2-chloroaniline)",NO,YES,NO,NO,Pounds,16.660009,0.0,500.0,0.0,0.0,0.0,0.0
+"4,4'-Methylenedianiline",NO,YES,NO,NO,Pounds,1597.0800000000002,3328.0,862.0,240000.0,0.0,0.0,8760.0
+"4,6-Dinitro-o-cresol",NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+4-Aminoazobenzene,NO,YES,NO,NO,Pounds,0.0,0.0,0.0,1337.32,0.0,0.0,0.0
+4-Aminobiphenyl,NO,YES,NO,NO,Pounds,12.52,0.0,0.0,18.78,0.0,0.0,0.0
+4-Dimethylaminoazobenzene,NO,YES,NO,NO,Pounds,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+4-Nitrophenol,NO,NO,NO,NO,Pounds,0.034,0.0,0.19,0.0,0.0,0.0,0.0
+5-Nitro-o-toluidine,NO,NO,NO,NO,Pounds,0.014,0.0,0.0,0.0,0.0,0.0,0.0
+Abamectin,NO,NO,NO,NO,Pounds,7.0,0.0,679.96,0.0,0.0,0.0,0.0
+Acephate,NO,NO,NO,NO,Pounds,2.0,0.0,35449.36,0.0,0.0,0.0,0.0
+Acetaldehyde,NO,YES,NO,NO,Pounds,7647178.057047999,299269.929,17773.723326,254312.01,109.40599999999999,7933.269999999999,27618.6442
+Acetamide,NO,YES,NO,NO,Pounds,72.0,255.0,0.0,1213407.0,0.0,0.0,0.0
+Acetonitrile,NO,NO,NO,NO,Pounds,776384.7032499999,2133.39,1331.8039999999999,21188935.55,0.0,32.0,4513193.6896
+Acetophenone,NO,NO,NO,NO,Pounds,207838.2236,825.1,3701.1849,479320.0,1319.449,0.0,4917.0
+"Acifluorfen, sodium salt",NO,NO,NO,NO,Pounds,10.2,0.0,0.0,0.0,0.0,0.0,0.0
+Acrolein,NO,NO,NO,NO,Pounds,330340.107,581.61,0.0,10050.0,0.0,0.0,1091.0
+Acrylamide,NO,YES,NO,NO,Pounds,40728.777,49.0,161727.15899999999,5343988.045,1146.0,0.0,55.3544
+Acrylic acid,NO,NO,NO,NO,Pounds,277555.80274,7001.0,397028.2268,1150928.073,767.0,0.0,160065.78
+Acrylonitrile,NO,YES,NO,NO,Pounds,293212.372,107.84,14558.065,7450454.059,9.0,0.0,287.45
+Alachlor,NO,NO,NO,NO,Pounds,0.013,0.0,9.035,0.032,0.0,0.0,0.0
+"Alcohols, C8-14, γ-ω-perfluoro",NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Aldicarb,NO,NO,NO,NO,Pounds,3.0,0.0,18000.0,0.0,0.0,0.0,0.0
+Aldrin,NO,NO,YES,NO,Pounds,2.3301,0.0,1038.09,0.0,0.0,0.0,4.0
+Allyl alcohol,NO,NO,NO,NO,Pounds,46029.935,13991.49,404247.008,276509.007,0.0,0.0,0.0
+Allyl chloride,NO,NO,NO,NO,Pounds,21999.440000000002,10.0,0.0,0.0,0.0,0.0,5144.0
+Allylamine,NO,NO,NO,NO,Pounds,1267.2,0.0,0.0,0.0,0.0,0.0,0.0
+Aluminum (fume or dust),NO,NO,NO,NO,Pounds,758028.3214969999,0.0,7163342.676497,0.0,0.0,5.0,81668841.726
+Aluminum oxide (fibrous forms),NO,NO,NO,NO,Pounds,7482.972836,155.25,5426507.817484,0.0,386346.0,0.0,2990700.0
+Aluminum phosphide,NO,NO,NO,NO,Pounds,21236.6,0.0,0.0,0.0,0.0,0.0,0.0
+Ametryn,NO,NO,NO,NO,Pounds,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+Amitrole,NO,YES,NO,NO,Pounds,3.024,0.0,19000.0,0.0,0.0,0.0,0.0
+Ammonia,NO,NO,NO,NO,Pounds,133472507.18806699,4307584.5399,1361290.7264999999,28519578.354999997,1594868.444,1935904.614,3339365.09
+Aniline,NO,NO,NO,NO,Pounds,56225.1827,367.0,343.024,2757394.542,0.0,0.0,1390.95
+Anthracene,NO,NO,NO,NO,Pounds,8079.686798,319.766,31952.4614,267.128,1.0,3.0,65319.971
+Antimony,YES,NO,NO,NO,Pounds,1338.6531,209.356,404795.36,0.0,0.0,0.0,1364941.82155
+Antimony  And Antimony Compounds,YES,NO,NO,NO,Pounds,9667.466533,2333.0119,2076947.855485,7617.0,0.0,90226.0,1686985.6934
+Antimony compounds,YES,NO,NO,NO,Pounds,13252.914992999999,3430.093925,443299.304,11597.0,33.0,4901891.1844,820726.397
+Arsenic,YES,YES,NO,NO,Pounds,175.157987,5084.619,433625.1777,0.5,0.0,235679.310099,118159.11103
+Arsenic  And Arsenic Compounds,YES,NO,NO,NO,Pounds,15172.2388,760.11504,1399622.4144899999,139757.56,80150.022,69020.17,106629.4086
+Arsenic compounds,YES,NO,NO,NO,Pounds,25680.704,11016.956,1695018.6960000002,261.0,31010.5,65563107.0,18596.94
+Asbestos (friable),NO,YES,NO,NO,Pounds,2235.118843,0.0,12922047.65,0.0,0.0,0.0,0.0
+Atrazine,NO,NO,NO,NO,Pounds,32902.1052,54.86,802369.749,0.008,263755.0,0.0,37.0
+Barium,NO,NO,NO,NO,Pounds,3590.501489,1880.44,1119197.8938300002,13.02,0.0,955.540496,17583.3655
+Barium  And Barium Compounds,NO,NO,NO,NO,Pounds,332363.348559,146770.6519,41766238.74953999,32377.0,337621.16000000003,2268759.82,2159102.4989
+Barium compounds (except for barium sulfate (CAS No. 7727-43-7)),NO,NO,NO,NO,Pounds,345482.010292,267411.056842,63503100.067999996,35514.0,582678.605,13418002.598,1992980.43
+Bendiocarb,NO,NO,NO,NO,Pounds,0.2,0.0,0.0,0.0,0.0,0.0,0.0
+Benfluralin,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Benomyl,NO,NO,NO,NO,Pounds,9.37,0.0,0.0,0.0,0.0,0.0,0.0
+Benzal chloride,NO,NO,NO,NO,Pounds,174.423,0.0,0.0,0.0,0.0,0.0,0.0
+Benzene,NO,YES,NO,NO,Pounds,2878597.77545,3458.67626,70713.720177,253910.34552,790.8841,563.6,354548.64733
+Benzidine,NO,YES,NO,NO,Pounds,3.0109999999999997,0.0,0.0,0.0,0.0,0.0,0.0
+"Benzo[g,h,i]perylene",NO,NO,YES,NO,Pounds,8997.078701999999,193.806316,16579.953877,284.474,180.67520000000002,175.8644,15219.229956
+Benzoic trichloride,NO,YES,NO,NO,Pounds,0.013000000000000001,0.0,0.0,0.0,0.0,0.0,0.0
+Benzoyl chloride,NO,NO,NO,NO,Pounds,3142.530551,5.0,0.0,0.0,0.0,0.0,0.6714
+Benzoyl peroxide,NO,NO,NO,NO,Pounds,936.242,0.0,1056.006,0.005,0.0,0.0,8520.0
+Benzyl chloride,NO,NO,NO,NO,Pounds,3910.8973,8.0,26037.067600000002,0.0,0.0,0.0,0.0
+Beryllium,YES,YES,NO,NO,Pounds,31.937,5.9,155299.4,0.0,0.0,0.0,194118.32
+Beryllium  And Beryllium Compounds,YES,YES,NO,NO,Pounds,398.567,71.1,181183.81,2721.0,555.0,6465.2,11313.0
+Beryllium compounds,YES,YES,NO,NO,Pounds,336.38079999999997,96.73,186331.33000000002,30.0,140.0,96880.64,12.0
+Bifenthrin,NO,NO,NO,NO,Pounds,692.48,0.3,16949.69,0.0,0.0,0.0,0.0
+Biphenyl,NO,NO,NO,NO,Pounds,121994.17585,56.032,49249.508,48730.737,0.0,0.0,47029.0
+Bis(2-chloro-1-methylethyl) ether,NO,NO,NO,NO,Pounds,1154.0,317.0,4.001,0.0,0.0,0.0,0.0
+Bis(2-chloroethoxy)methane,NO,NO,NO,NO,Pounds,113.68,0.0,0.0,0.0,0.0,0.0,0.0
+Bis(2-chloroethyl) ether,NO,NO,NO,NO,Pounds,814.2359,4.05627,11.0,2.0,0.0,0.0,0.0
+Bis(chloromethyl) ether,NO,YES,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bis(tributyltin) oxide,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Boron trichloride,NO,NO,NO,NO,Pounds,2462.7000000000003,0.0,0.0,0.0,0.0,0.0,2951.0
+Boron trifluoride,NO,NO,NO,NO,Pounds,5555.179999999999,0.0,0.0,314893.0,0.0,0.0,0.0
+Bromacil,NO,NO,NO,NO,Pounds,500.0,0.0,750.0,0.0,0.0,0.0,0.0
+Bromine,NO,NO,NO,NO,Pounds,67761.0,40.0,40847.0,178.0,8.0,0.0,0.0
+Bromochlorodifluoromethane (Halon 1211),NO,NO,NO,NO,Pounds,3480.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bromoform,NO,NO,NO,NO,Pounds,6727.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bromomethane,NO,NO,NO,NO,Pounds,280985.02300000004,52.0,3.0,210.0,0.0,0.0,0.0
+Bromotrifluoromethane (Halon 1301),NO,NO,NO,NO,Pounds,14273.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bromoxynil,NO,NO,NO,NO,Pounds,265.02008,0.0,0.0,0.0,0.0,0.0,0.0
+Bromoxynil octanoate,NO,NO,NO,NO,Pounds,224.79,0.0,2.0,0.0,0.0,0.0,0.0
+Butyl acrylate,NO,NO,NO,NO,Pounds,187954.263017,70.86,39213.737,0.052,0.0,0.0,4430.7252
+Butyraldehyde,NO,NO,NO,NO,Pounds,216333.146551,2212.0,190.019,32424.017,280.0,0.0,31927.6152
+C.I. Basic Green 4,NO,NO,NO,NO,Pounds,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+C.I. Direct Blue 218,NO,NO,NO,NO,Pounds,6.0,4456.0,2228.0,0.0,0.0,0.0,0.0
+C.I. Food Red 15,NO,NO,NO,NO,Pounds,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+C.I. Solvent Yellow 34,NO,YES,NO,NO,Pounds,3.014,0.0,0.0,0.0,0.0,0.0,0.0
+Cadmium,YES,YES,NO,NO,Pounds,87.46083300000001,62.83,310231.6,4676.89,0.0,5e-05,49703.87
+Cadmium  And Cadmium Compounds,YES,YES,NO,NO,Pounds,5198.916543,2243.0074000000004,2362323.07888,53658.0,0.0396,700286.1,260013.41
+Cadmium compounds,YES,YES,NO,NO,Pounds,2656.9489999999996,335.77000000000004,506705.46499999997,253.3,3.0999999999999996,851621.0,919260.94
+Calcium cyanamide,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Captan,NO,NO,NO,NO,Pounds,137.71901,5.0,37.18,0.0,0.0,0.0,5.0
+Carbaryl,NO,NO,NO,NO,Pounds,198.162,5.0,120.80799999999999,0.007,0.0,0.0,0.0
+Carbofuran,NO,NO,NO,NO,Pounds,0.010007,0.0,0.0,0.0,0.0,0.0,0.0
+Carbon disulfide,NO,NO,NO,NO,Pounds,8312606.501,90008.281,577.977,1906.766,0.0,1.0026,2506.0
+Carbon tetrachloride,NO,YES,NO,NO,Pounds,148226.763,119.205,228.93099999999998,14346.167,0.0,0.0,159462.44
+Carbonyl sulfide,NO,NO,NO,NO,Pounds,10510540.958,655.0,142.0,1900.0,0.0,0.0,0.0
+Carboxin,NO,NO,NO,NO,Pounds,5.0,0.0,0.0,0.0,0.0,0.0,0.0
+Catechol,NO,YES,NO,NO,Pounds,1492.68,7112.18,1612.8447,0.0,12.11444,83.37,0.0
+Certain glycol ethers,NO,NO,NO,NO,Pounds,12934384.103944,22200.38,1354727.6939,876632.84,16111.4,52436.0,4967933.3618
+Chlordane,NO,YES,YES,NO,Pounds,290.71362000000005,0.0,4395.786,0.015,0.0,0.0,605.0
+Chlorimuron-ethyl,NO,NO,NO,NO,Pounds,182.41,0.0,12714.0,0.0,0.0,0.0,0.0
+Chlorine,NO,NO,NO,NO,Pounds,5569871.218940001,192699.67307,3224074.5300000003,243671.0,5.0,114.0,648956.01
+Chlorine dioxide,NO,NO,NO,NO,Pounds,501605.87,0.0,0.0,365.0,0.0,0.0,0.0
+Chloroacetic acid,NO,NO,NO,NO,Pounds,8596.59,50.0,84.0,0.0,0.0,0.0,1376.1
+Chlorobenzene,NO,NO,NO,NO,Pounds,565183.938,145.94,11379.355,92000.095,0.0,0.0,4515916.39
+Chlorobenzilate,NO,NO,NO,NO,Pounds,3.014,0.0,0.0,0.0,0.0,0.0,0.0
+Chlorodifluoromethane (HCFC-22),NO,NO,NO,NO,Pounds,1024512.0599999999,0.0,0.0,0.0,0.0,0.0,0.0
+Chloroethane,NO,NO,NO,NO,Pounds,167011.9,318.0,1.0,0.0,0.0,5.0,2.0
+Chloroform,NO,YES,NO,NO,Pounds,246852.247,5541.966,29525.798,23462.489999999998,0.0,0.0,102320.73
+Chloromethane,NO,NO,NO,NO,Pounds,679230.105,1255.82,8294.1,330813.0,0.0,0.6,1090.0
+Chloromethyl methyl ether,NO,YES,NO,NO,Pounds,538.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chlorophenols,NO,YES,NO,NO,Pounds,533.957,0.0,16.0,542568.0,0.0,0.0,94.0
+Chloropicrin,NO,NO,NO,NO,Pounds,4953.82,0.0,0.0,0.0,0.0,0.0,0.0
+Chloroprene,NO,YES,NO,NO,Pounds,37584.249899999995,208.57,4054.326,3057.024,0.0,0.0,0.0
+Chlorothalonil,NO,YES,NO,NO,Pounds,1304.7,5.0,245597.03,250.0,0.0,0.0,0.0
+Chlorotrifluoromethane (CFC-13),NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Chlorsulfuron,NO,NO,NO,NO,Pounds,53.1,0.0,40713.0,0.0,0.0,0.0,0.0
+Chromium,YES,NO,NO,NO,Pounds,114973.407242,3035.028715,4376941.129375,82207.294,143.57999999999998,2081110.2476899999,204173250.463716
+Chromium  and Chromium Compounds(except for chromite ore mined in the Transvaal Region),YES,NO,NO,NO,Pounds,83454.10636599999,74271.7237,17554675.2006,538826.14,48875.55,5441062.87,19458606.4612
+Chromium compounds (except for chromite ore mined in the Transvaal Region),YES,NO,NO,NO,Pounds,87171.963426,21637.1437,10289886.7979,2491238.74,50407.476,4286624.88,12672941.291
+Chromium(III) perfluorooctanoate,NO,NO,NO,YES,Pounds,750.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cobalt,YES,YES,NO,NO,Pounds,8680.447680000001,620.7805000000001,159228.70795,9800.0,30.0,226332.56,13476215.49
+Cobalt  And Cobalt Compounds,YES,NO,NO,NO,Pounds,13637.803749,2921.09,1028603.4827619999,12197.44,3953.3,629077.85,2302376.4832
+Cobalt compounds,YES,NO,NO,NO,Pounds,10594.058506000001,66519.90000000001,1073507.455,50485.47,12505.2,923406.25,1757055.98039
+Copper,YES,NO,NO,NO,Pounds,358529.917292,14622.65425,5764970.435989,240709.96429200002,114327.6729,172751.65,378437057.597163
+Copper  And Copper Compounds,YES,NO,NO,NO,Pounds,254342.899914,55254.1675,13685923.085355999,377677.99,31070.068,24064671.583,49952110.3706
+Copper compounds,YES,NO,NO,NO,Pounds,169750.036235,111508.3955,6157699.672499999,154096.90000000002,50334.189,95680584.5142,56038976.703
+Creosote,NO,YES,NO,NO,Pounds,145503.632352,159.0,236155.581,0.091,0.0,0.0,690.1
+Cresol (mixed isomers),NO,NO,NO,NO,Pounds,804576.6440000001,2255.472,19893.979799999997,426808.097,66.53,15291.0,2156.24
+Crotonaldehyde,NO,NO,NO,NO,Pounds,215.23408,0.0,0.0,2849.0,1.0,0.0,0.0
+Cumene,NO,YES,NO,NO,Pounds,905167.3578,298.416,4098.9841,3889.161,31.343,0.0,285237.5922
+Cumene hydroperoxide,NO,NO,NO,NO,Pounds,30490.0668,2600.0,69654.02,22783.0,0.0,0.0,10232.17
+Cyanide compounds,NO,NO,NO,NO,Pounds,142832.0924,17461.45,679756.2315,5551903.001,0.0,1887554.0,186917.93803
+Cycloate,NO,NO,NO,NO,Pounds,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cyclohexane,NO,NO,NO,NO,Pounds,3603021.1770599997,33234.371,35511.161,96671.412,438.08,12.0,1567545.0664
+Cyclohexanol,NO,NO,NO,NO,Pounds,45697.6,32372.0,1001.0,1352997.1,0.0,0.0,73.0
+Cyfluthrin,NO,NO,NO,NO,Pounds,208.0,0.0,0.0,0.0,0.0,0.0,0.0
+Cyhalothrin,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dazomet,NO,NO,NO,NO,Pounds,31.0,8.0,0.0,0.0,0.0,0.0,0.0
+Decabromodiphenyl oxide,NO,NO,NO,NO,Pounds,932.0,0.0,9767.0,0.0,0.0,0.0,0.0
+Di(2-ethylhexyl) phthalate,NO,YES,NO,NO,Pounds,18465.214908,26.51,59717.389,10240.226,0.0,0.0,3211723.97
+Diallate,NO,NO,NO,NO,Pounds,0.025,0.0,0.0,0.0,0.0,0.0,0.0
+Diaminotoluene (mixed isomers),NO,YES,NO,NO,Pounds,4162.155,116.0,270.0,0.0,0.0,5.0,0.0
+Diazinon,NO,YES,NO,NO,Pounds,130.86303,5.0,39.051,0.01,0.0,0.0,252.0
+Dibenzofuran,NO,NO,NO,NO,Pounds,3218.8,27.0,867.0,3.0,0.0,0.0,39000.0
+Dibromotetrafluoroethane,NO,NO,NO,NO,Pounds,12.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dibutyl phthalate,NO,NO,NO,NO,Pounds,85485.12092500001,0.0,39335.985,61993.013,0.0,0.0,3706.0
+Dicamba,NO,NO,NO,NO,Pounds,3360.33718,9.0,50861.950000000004,72858.009,0.0,0.0,0.0
+Dichloran,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dichlorobenzene (mixed isomers),NO,YES,NO,NO,Pounds,19.513,0.0,70.139,0.008,0.0,0.0,94.0
+Dichlorobromomethane,NO,YES,NO,NO,Pounds,1513.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dichlorodifluoromethane (CFC-12),NO,NO,NO,NO,Pounds,34982.111,0.0,0.0,0.0,0.0,0.0,26.0
+Dichlorofluoromethane (HCFC-21),NO,NO,NO,NO,Pounds,1300.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dichloromethane,NO,YES,NO,NO,Pounds,2853756.9067,5534.712,121941.93800000001,514448.224,0.0,0.0,6663079.05
+Dichlorotetrafluoroethane (CFC-114),NO,NO,NO,NO,Pounds,79011.62000699999,0.0,0.0,0.0,0.0,0.0,0.0
+Dichlorvos,NO,YES,NO,NO,Pounds,412.02000699999996,0.0,11564.0,0.0,0.0,0.0,0.0
+Dicofol,NO,NO,NO,NO,Pounds,0.2,0.0,0.0,0.0,0.0,0.0,0.0
+Dicyclopentadiene,NO,NO,NO,NO,Pounds,150917.62028,280.42999999999995,41488.96,81437.05,608.733,0.0,1663.9
+Diepoxybutane,NO,YES,NO,NO,Pounds,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diethanolamine,NO,NO,NO,NO,Pounds,83586.41067000001,30859.0,328869.0353,839200.296,28000.0,0.0,2606.0
+Diethyl sulfate,NO,YES,NO,NO,Pounds,5003.34,0.0,0.0,0.0,0.0,0.0,0.0
+Diflubenzuron,NO,NO,NO,NO,Pounds,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+Diglycidyl resorcinol ether,NO,YES,NO,NO,Pounds,494.0,0.0,0.0,0.0,0.0,0.0,0.0
+Dihydrosafrole,NO,YES,NO,NO,Pounds,0.024,0.0,0.0,0.0,0.0,0.0,0.0
+Diisocyanates,NO,NO,NO,NO,Pounds,405183.88595699996,6.89,2129638.793,1064.4,3444.0,0.0,382449.0572
+Dimethoate,NO,NO,NO,NO,Pounds,27.200000000000003,5.0,0.0,0.0,0.0,0.0,0.0
+Dimethyl phthalate,NO,NO,NO,NO,Pounds,86485.242227,0.0,68465.3141,23797.005,0.0,0.0,31910.2043
+Dimethyl sulfate,NO,YES,NO,NO,Pounds,840.293,5.0,0.0,0.0,0.0,0.0,460000.0
+Dimethylamine,NO,NO,NO,NO,Pounds,104172.396,33490.0,269647.213,26954.02,4172.0,0.0,57.0
+Dimethylamine dicamba,NO,NO,NO,NO,Pounds,251.78,0.0,8.0,0.0,0.0,0.0,0.0
+Dimethylcarbamoyl chloride,NO,YES,NO,NO,Pounds,3.014,0.0,0.0,0.0,0.0,0.0,0.0
+Dinitrobutyl phenol,NO,NO,NO,NO,Pounds,1295.7699999999998,34.0,12.0,68681.06,0.0,0.0,0.0
+Dinitrotoluene (mixed isomers),NO,NO,NO,NO,Pounds,46115.497,37.0,0.9,0.0,0.0,0.0,0.0
+Dioxin and dioxin-like compounds,NO,YES,YES,NO,Grams,1067.6119700000002,1294.4753,64436.890961000005,209.264408,37.896111,8319.709512,5854.588351
+Diphenylamine,NO,NO,NO,NO,Pounds,11449.343,28.05,64285.58,864.009,0.0,125.0,2084.0
+Dipotassium endothall,NO,NO,NO,NO,Pounds,11.940000000000001,2796.0,0.0,0.0,0.0,0.0,0.0
+Diuron,NO,NO,NO,NO,Pounds,236.0,5.0,0.0,0.0,0.0,49.0,0.0
+Epichlorohydrin,NO,YES,NO,NO,Pounds,81351.42060000001,6104.6,85137.027,23794.006,21.5,0.0,6483.0
+"Ethanaminium, N,N,N-triethyl-, salt with 1,1,2,2,3,3,4,4,5,5,6,6,7,7,8,8,8-heptadecafluoro-1-octanesulfonic acid (1:1)",NO,NO,NO,YES,Pounds,0.0,0.075,0.0,0.0,0.0,0.0,0.0
+"Ethanol, 2,2'-iminobis-, compd. with α,α'-[phosphinicobis(oxy-2,1-ethanediyl)]bis[ω-fluoropoly(difluoromethylene)] (1:1)",NO,NO,NO,YES,Pounds,0.01,0.0,0.0,0.0,0.0,0.0,0.0
+"Ethanol, 2,2'-iminobis-, compd. with α-fluoro-ω-[2-(phosphonooxy)ethyl]poly(difluoromethylene) (2:1)",NO,NO,NO,YES,Pounds,4.01,0.0,0.0,0.0,0.0,0.0,0.0
+Ethoprop,NO,NO,NO,NO,Pounds,10.0,0.0,11092.0,0.0,0.0,0.0,0.0
+Ethyl acrylate,NO,YES,NO,NO,Pounds,64508.417,9.71,4953.768,2839.968,0.0,0.0,1010.0
+Ethyl chloroformate,NO,NO,NO,NO,Pounds,498.0,0.0,0.0,0.0,0.0,0.0,0.0
+Ethylbenzene,NO,YES,NO,NO,Pounds,2107153.499978,1736.1082,86963.1135,531386.588,3488.8311000000003,446.44000000000005,2256498.946508
+Ethylene,NO,NO,NO,NO,Pounds,18294067.5027,192.0,40143.0,250.0,54.0,0.0,1396.92
+Ethylene glycol,NO,NO,NO,NO,Pounds,1585009.26745,386173.742,9023656.864021,6951882.759,33067.0,0.0,29869134.0287
+Ethylene oxide,NO,YES,NO,NO,Pounds,155697.5973,1645.0,273.679,10159.0,8.0,0.0,20563.0
+Ethylene thiourea,NO,YES,NO,NO,Pounds,1060.2448,0.0,12398.64,0.0,0.0,0.0,10368.39
+"Ethylenebisdithiocarbamic acid, salts and esters",NO,NO,NO,NO,Pounds,3.27,0.0,0.0,0.0,0.0,0.0,0.0
+Ethyleneimine,NO,YES,NO,NO,Pounds,0.0,0.0,18000.0,0.0,0.0,0.0,0.0
+Ethylidene dichloride,NO,NO,NO,NO,Pounds,9528.934000000001,185.0,0.24,0.0,0.0,0.0,595.0
+"Fatty acids, linseed-oil, γ-ω-perfluoro-C8-14-alkyl esters",NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fenbutatin oxide,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fenpropathrin,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fluorine,NO,NO,NO,NO,Pounds,25346.2,0.0,0.0,0.0,0.0,0.0,0.0
+Fluorouracil,NO,NO,NO,NO,Pounds,0.2,0.0,0.0,0.0,0.0,0.0,0.0
+Folpet,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Fomesafen,NO,NO,NO,NO,Pounds,269.0,0.58,23158.23,0.0,0.0,0.0,0.0
+Formaldehyde,NO,YES,NO,NO,Pounds,4701402.307053,181946.26,282271.42189999996,12935343.143,437.69800000000004,159612.08000000002,30252.29
+Formic acid,NO,NO,NO,NO,Pounds,491601.2547,372667.095,383518.1273,13402912.124,2.68,19000.2,368135.44
+Freon 113 (CFC-113),NO,NO,NO,NO,Pounds,670971.2000000001,0.0,0.0,0.0,0.0,0.0,0.0
+Furan,NO,YES,NO,NO,Pounds,12720.960000000001,0.0,97500.0,0.0,0.0,0.0,0.0
+Glycidol,NO,YES,NO,NO,Pounds,1421.9,19633.0,0.0,0.0,0.0,0.0,0.0
+Heptachlor,NO,YES,YES,NO,Pounds,17.494,0.0,316.714,0.012,0.0,0.0,10.0
+Hexabromocyclododecane,NO,NO,YES,NO,Pounds,0.0,0.0,10777.2,0.0,0.0,0.0,0.0
+"Hexachloro-1,3-butadiene",NO,NO,NO,NO,Pounds,2174.96,27.0,3.9,0.0,0.0,0.0,40955.0
+Hexachlorobenzene,NO,YES,YES,NO,Pounds,846.7149999999999,103.1661,2924.7,0.04,0.0,1424.34,18.04
+Hexachlorocyclopentadiene,NO,NO,NO,NO,Pounds,11.60001,0.03,0.0,0.0,0.0,0.0,0.0
+Hexachloroethane,NO,YES,NO,NO,Pounds,938.3365530000001,20.0,262.0,202.0,0.0,0.0,39615.002
+Hexachlorophene,NO,NO,NO,NO,Pounds,7.354,0.0,19000.0,0.0,0.0,0.0,47.0
+Hexafluoropropylene oxide dimer acid,NO,NO,NO,YES,Pounds,63.6,0.48,10142.0,6593.0,0.0,0.0,0.0
+Hexafluoropropylene oxide dimer acid ammonium salt,NO,NO,NO,YES,Pounds,147.0,672.973,0.0,0.0,0.0,0.0,174912.0
+Hexazinone,NO,NO,NO,NO,Pounds,74.25,0.0,792.0,0.0,0.0,0.0,0.0
+Hydramethylnon,NO,NO,NO,NO,Pounds,0.2,0.0,0.0,0.0,0.0,0.0,0.0
+Hydrazine,NO,YES,NO,NO,Pounds,3116.462288,133.0,7.84,0.0,0.0,0.0,20.8
+Hydrazine sulfate (1:1),NO,YES,NO,NO,Pounds,0.12,0.0,0.0,0.0,0.0,0.0,0.0
+"Hydrochloric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",NO,NO,NO,NO,Pounds,24453915.609708,0.0,32142.46,677.94,0.0,663.06,86801.03
+Hydrogen cyanide,NO,NO,NO,NO,Pounds,5295584.665899999,839.45,9969.000002,621638.763,0.0,0.0,0.0
+Hydrogen fluoride,NO,NO,NO,NO,Pounds,9463863.365,351.4,26293190.714022998,557723.45,0.0,1892769.0,14285.05
+Hydrogen sulfide,NO,NO,NO,NO,Pounds,17395226.624869,374352.27,34654.3784,9339597.54,25878.04,243135.77,18407891.62
+Hydroquinone,NO,NO,NO,NO,Pounds,17070.197903,4996.0,70634.225,329096.008,0.0,1.0,1586.0
+Iron pentacarbonyl,NO,NO,NO,NO,Pounds,14261.0,0.0,0.0,0.0,0.0,0.0,0.0
+Isobutyraldehyde,NO,NO,NO,NO,Pounds,91533.15,22.0,29.0,212939.0,182.0,0.0,2163.0
+Isodrin,NO,NO,YES,NO,Pounds,0.41000000000000003,0.0,0.0,0.0,0.0,0.0,0.0
+Isoprene,NO,YES,NO,NO,Pounds,187361.2996,518.0,3382.35,0.0,0.0,0.0,1709.6
+"Isopropyl alcohol (only persons who manufacture by the strong acid process are subject, no supplier notification)",NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Isosafrole,NO,NO,NO,NO,Pounds,3.36,0.0,0.0,0.0,0.0,0.0,0.0
+Lead,YES,YES,YES,NO,Pounds,64871.94937,5260.513169,7636250.653985,159440.80270000003,1769.9704299999999,557511.926274,47280533.030708
+Lead  And Lead Compounds,YES,NO,YES,NO,Pounds,153071.004843,22329.760716,33546971.637197997,18597.291,39639.2416,30148559.489636004,169757989.356008
+Lead compounds,YES,NO,YES,NO,Pounds,86677.537921,15021.120846,6059202.714759,230043.98068600002,15129.301,135305368.14999402,29917491.367234
+Lindane,NO,YES,NO,NO,Pounds,189.26299999999998,0.0,56.028,0.008,0.0,0.0,474.0
+Linuron,NO,NO,NO,NO,Pounds,11.83,0.0,0.0,0.0,0.0,0.0,10.0
+Lithium carbonate,NO,NO,NO,NO,Pounds,11989.420150000002,166.76,225901.58000000002,0.0,0.0,0.0,20875.02
+Malathion,NO,YES,NO,NO,Pounds,955.102,5.0,39.008,0.007,0.0,0.0,244.0
+Maleic anhydride,NO,NO,NO,NO,Pounds,159952.07538,478.42,541273.5727,59333.039,0.0,0.0,14011.0
+Malononitrile,NO,NO,NO,NO,Pounds,8.962,0.0,19000.0,0.0,0.0,0.0,0.0
+Maneb,NO,NO,NO,NO,Pounds,0.1,0.0,0.0,0.0,0.0,0.0,0.0
+Manganese,YES,NO,NO,NO,Pounds,329304.434021,116003.063695,9768739.986949,747.659816,14508.26,921139.808,143741475.706967
+Manganese  And Manganese Compounds,YES,NO,NO,NO,Pounds,300572.667314,1685004.6118,54317616.26096,124398.0,498556.52,52575774.676,48433701.2097
+Manganese compounds,YES,NO,NO,NO,Pounds,317071.305633,2245699.77,33212119.547300003,9073459.0,486849.01,66758755.616,40894881.2602
+Mecoprop,NO,YES,NO,NO,Pounds,260.65000000000003,0.0,250.0,0.0,250.0,0.0,0.0
+Mercury,YES,NO,YES,NO,Pounds,4830.368865,173.907059,29766.214640000002,84.44550000000001,264.46322399999997,4090.54912,18746.15592
+Mercury  And Mercury Compounds,YES,NO,YES,NO,Pounds,15156.652615,231.999252,156219.49484600002,505.40213000000006,538.37511,991662.89613,431406.749244
+Mercury compounds,YES,NO,YES,NO,Pounds,15262.634346,2713.7871010000003,42603.982812999995,150.18728000000002,150.1853,103719.88772,16206.955935
+Merphos,NO,NO,NO,NO,Pounds,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+Methacrylonitrile,NO,NO,NO,NO,Pounds,0.014,0.0,0.0,35334.0,0.0,0.0,0.0
+Metham sodium,NO,NO,NO,NO,Pounds,1085.6599999999999,0.0,26865.69,0.0,0.0,0.0,0.0
+Methanol,NO,NO,NO,NO,Pounds,96836916.39497,5097925.426,666211.2817,15169526.773,242126.34600000002,1331774.16,22407882.253
+Methiocarb,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Methoxone,NO,YES,NO,NO,Pounds,53.00005,0.0,59.0,0.0,0.0,0.0,0.0
+Methoxychlor,NO,NO,YES,NO,Pounds,142.952,0.0,1484.318,0.007,0.0,0.0,413.0
+Methyl acrylate,NO,YES,NO,NO,Pounds,50246.059500999996,31.0,1314.8666,230.0368,0.0,0.0,182.0
+Methyl chlorocarbonate,NO,NO,NO,NO,Pounds,138.04399999999998,0.0,0.0,0.0,0.0,0.0,0.0
+Methyl hydrazine,NO,NO,NO,NO,Pounds,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Methyl iodide,NO,NO,NO,NO,Pounds,36377.672,3.0,0.0,0.66,0.0,245.0,2.194
+Methyl isobutyl ketone,NO,YES,NO,NO,Pounds,2596081.80186,921.55,99553.2212,29203.535,0.0,457.1,4742492.6423
+Methyl methacrylate,NO,NO,NO,NO,Pounds,1848806.5574999999,878.74,149031.492108,2262167.5,0.0,0.0,394911.43
+Methyl parathion,NO,NO,NO,NO,Pounds,4.0,0.0,0.0,80631.0,0.0,0.0,0.0
+Methyl tert-butyl ether,NO,NO,NO,NO,Pounds,230958.92848,3681.0,1400.722,21946.001,0.001,0.0,174613.5734
+Methylene bromide,NO,NO,NO,NO,Pounds,3954.806,0.0,0.0,7076.0,0.0,0.0,0.0
+Metribuzin,NO,NO,NO,NO,Pounds,971.73,20.1,26654.25,0.0,0.0,0.0,0.0
+Mixture,NO,NO,NO,NO,Pounds,42935.0,10.0,778172.0,0.0,0.0,0.0,0.0
+Molybdenum trioxide,NO,YES,NO,NO,Pounds,69207.759019,39682.86,1331020.5880000002,279392.0,4950.0,250.0,965886.010225
+Monochloropentafluoroethane (CFC-115),NO,NO,NO,NO,Pounds,5113.938,0.0,0.0,0.0,0.0,0.0,0.0
+Mustard gas,NO,YES,NO,NO,Pounds,0.0,0.0,105025.0,0.0,0.0,0.0,0.0
+Myclobutanil,NO,NO,NO,NO,Pounds,51.86,0.0,0.0,0.0,0.0,0.0,0.0
+"N,N-Dimethylaniline",NO,NO,NO,NO,Pounds,2219.62,0.0,0.0,0.0,0.0,0.0,22050.0
+"N,N-Dimethylformamide",NO,YES,NO,NO,Pounds,202992.56509999998,2231.0,16400.6424,788111.621,0.0,0.0,1405725.0
+N-Methyl-2-pyrrolidone,NO,NO,NO,NO,Pounds,1404737.677265,7121.86,3520621.289,5383535.027,10045.0,0.0,20749925.349
+N-Methylolacrylamide,NO,NO,NO,NO,Pounds,1263.26016,5.0,1754.0,0.0,0.0,0.0,0.0
+N-Nitroso-N-ethylurea,NO,YES,NO,NO,Pounds,0.013000000000000001,0.0,0.0,0.0,0.0,0.0,0.0
+N-Nitroso-N-methylurea,NO,YES,NO,NO,Pounds,0.013000000000000001,0.0,0.0,0.0,0.0,0.0,0.0
+N-Nitrosodi-n-butylamine,NO,YES,NO,NO,Pounds,0.052000000000000005,0.0,237.1,0.0,0.0,0.0,0.0
+N-Nitrosodi-n-propylamine,NO,YES,NO,NO,Pounds,1.017,0.0,0.0,0.0,0.0,0.0,0.0
+N-Nitrosodiethylamine,NO,YES,NO,NO,Pounds,0.013000000000000001,0.0,0.0,0.0,0.0,0.0,0.0
+N-Nitrosodimethylamine,NO,YES,NO,NO,Pounds,0.2,0.0,0.0,0.0,0.0,0.0,0.0
+N-Nitrosodiphenylamine,NO,NO,NO,NO,Pounds,6.462,0.0,0.0,0.0,0.0,0.0,0.0
+N-Nitrosopiperidine,NO,YES,NO,NO,Pounds,4.4,0.0,0.0,0.0,0.0,0.0,0.0
+Nabam,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Naled,NO,NO,NO,NO,Pounds,10.0,0.0,10620.0,0.0,0.0,0.0,0.0
+Naphthalene,NO,YES,NO,NO,Pounds,1324670.458532,3568.101,2185824.9981,457263.565,247.72799999999998,345.99,469967.0921
+Nickel,YES,YES,NO,NO,Pounds,107559.10010899999,6398.423696,4233912.373265,93936.04999999999,1546.7629,681649.7059000001,151271649.000002
+Nickel  And Nickel Compounds,YES,YES,NO,NO,Pounds,91316.544459,27236.0729,40236242.8731,261228.06,68095.6576,8632704.05,19211229.9489
+Nickel compounds,YES,YES,NO,NO,Pounds,102202.29639999999,28925.7649,4445982.7696,211449.49719999998,21761.45,2139698.28,9895938.4297
+Nicotine and salts,NO,NO,NO,NO,Pounds,174888.01499999998,27.0,193670.177,0.015,85705.0,0.0,7803569.275
+Nitrapyrin,NO,NO,NO,NO,Pounds,34.0,0.0,317869.15,0.0,0.0,0.0,1846.0
+Nitrate compounds (water dissociable; reportable only when in aqueous solution),NO,NO,NO,NO,Pounds,299373.54719099996,177150545.108,5878503.3619,34138341.122291,15513456.765999999,11694068.76,1403500.4759
+Nitric acid,NO,NO,NO,NO,Pounds,1520968.202138,304933.005,1243256.1132699999,7426541.591,112086.12599999999,325934.03,1289234.634
+Nitrilotriacetic acid,NO,YES,NO,NO,Pounds,0.0,0.0,0.0,1780.0,0.0,0.0,0.0
+Nitrobenzene,NO,YES,NO,NO,Pounds,15992.843,0.0,261.261,283215.01,0.0,0.0,1418.11
+Nitroglycerin,NO,NO,NO,NO,Pounds,97582.16548000001,34486.0,18036.49,0.0,0.0,0.0,4362.0
+Nitromethane,NO,YES,NO,NO,Pounds,57558.44,796.0,0.0,0.0,0.0,0.0,0.0
+Nonylphenol,NO,NO,NO,NO,Pounds,31436.634335000002,13.830000000000002,178130.7018,0.0,76.0,0.0,13873.0
+Nonylphenol Ethoxylates,NO,NO,NO,NO,Pounds,83865.914087,2587.5,260827.091,394.76,125.04,44000.0,3609.8
+Norflurazon,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Octachlorostyrene,NO,NO,YES,NO,Pounds,0.0,0.0123,66.718,0.0,0.0,219.55,0.0
+"Octanoyl fluoride, pentadecafluoro-",NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oryzalin,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Osmium tetroxide,NO,NO,NO,NO,Pounds,2.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oxadiazon,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Oxyfluorfen,NO,NO,NO,NO,Pounds,2.64,0.3,4980.46,0.0,0.0,0.0,0.0
+Ozone,NO,NO,NO,NO,Pounds,811606.503,0.0,0.0,0.0,0.0,0.0,0.0
+Paraldehyde,NO,NO,NO,NO,Pounds,44.262,0.0,19000.0,0.0,0.0,0.0,0.0
+Paraquat dichloride,NO,NO,NO,NO,Pounds,500.0,0.0,47541.0,262.0,0.0,0.0,0.0
+Parathion,NO,YES,NO,NO,Pounds,0.25203,0.0,0.007,0.007,0.0,0.0,0.0
+Pendimethalin,NO,NO,YES,NO,Pounds,3337.517238,5.06,17027.128999999997,0.008,1875.0,0.0043,990.0
+Pentachlorobenzene,NO,NO,YES,NO,Pounds,37.0202,144.7021,911.092,23.0018,0.0,0.0,0.0
+Pentachloroethane,NO,NO,NO,NO,Pounds,1690.042,0.0,220.307,0.006,0.0,0.0,190692.0
+Pentachlorophenol,NO,YES,NO,NO,Pounds,56.281,846.0,108.0,0.0,0.0,0.0,1619.0
+Pentobarbital sodium,NO,NO,NO,NO,Pounds,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+Peracetic acid,NO,NO,NO,NO,Pounds,255341.165,2197.52,10.376999999999999,391.015,4539.73,1700.0,596.0
+Perfluorodecanoic acid,NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Perfluorododecanoic acid,NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Perfluorohexanesulfonic acid,NO,NO,NO,YES,Pounds,0.0,0.0,500.0,0.0,0.0,0.0,0.0
+Perfluorononanoic acid,NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Perfluorooctane sulfonic acid,NO,NO,NO,YES,Pounds,0.0,0.0,16308.45,0.0,0.0,0.0,0.0
+Perfluorooctanoic acid,NO,YES,NO,YES,Pounds,3.84,0.0,0.0,288.0,0.0,0.0,0.0
+Perfluorooctyl iodide,NO,NO,NO,YES,Pounds,381.7,65.0,5468.72,0.0,0.0,0.0,490228.0
+Perfluorotetradecanoic acid,NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Permethrin,NO,NO,NO,NO,Pounds,18.57001,0.0,16195.4,1100.0,0.0,0.0,121.0
+Phenanthrene,NO,NO,NO,NO,Pounds,41026.950448,329.1736,47999.0836,274.488,5.539,136.0,158685.819
+Phenol,NO,NO,NO,NO,Pounds,3145685.18116,26692.500676,1041956.278587,1356879.286,362.6624,4594.0599999999995,551170.01
+Phenolphthalein,NO,YES,NO,NO,Pounds,10.0,0.0,10528.0,0.0,0.0,0.0,0.0
+Phenothrin,NO,NO,NO,NO,Pounds,20.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phenytoin,NO,YES,NO,NO,Pounds,830.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phosgene,NO,NO,NO,NO,Pounds,5691.32,0.0,0.0,0.0,0.0,0.0,0.0
+Phosphine,NO,NO,NO,NO,Pounds,4378.4,7.51,0.0,0.0,0.0,0.0,0.0
+"Phosphonic acid, perfluoro-C6-12-alkyl derivs.",NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Phosphorus (yellow or white),NO,NO,NO,NO,Pounds,909.35,0.0,993.889,0.0,0.0,0.0,129294.0
+Phthalic anhydride,NO,NO,NO,NO,Pounds,198718.92979999998,27.0,52279.33,36741.027,0.0,1.0,9686.0
+Picloram,NO,NO,NO,NO,Pounds,447.1,0.0,18.0,0.0,0.0,0.0,0.0
+Picric acid,NO,NO,NO,NO,Pounds,0.2,0.0,0.0,80469.0,0.0,0.0,0.0
+Piperonyl butoxide,NO,NO,NO,NO,Pounds,8.36,0.0,0.0,0.0,0.0,0.0,0.0
+Pirimiphos-methyl,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Poly(difluoromethylene), α,α'-[phosphinicobis(oxy-2,1-ethanediyl)]bis[ω-fluoro-, ammonium salt",NO,NO,NO,YES,Pounds,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Poly(difluoromethylene), α-fluoro-ω-[2-(phosphonooxy)ethyl]-, diammonium salt",NO,NO,NO,YES,Pounds,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Poly(difluoromethylene), α-fluoro-ω-[2-[(1-oxo-2-propenyl)oxy]ethyl]-, homopolymer",NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Poly(oxy-1,2-ethanediyl), α-[2-[ethyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl]-ω-hydroxy-",NO,NO,NO,YES,Pounds,0.0,0.0,2874.0,0.0,0.0,0.0,0.0
+"Poly(oxy-1,2-ethanediyl), α-[2-[ethyl[(pentadecafluoroheptyl)sulfonyl]amino]ethyl]-ω-methoxy-",NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Poly(oxy-1,2-ethanediyl), α-hydro-ω-hydroxy-, ether with α-fluoro-ω-(2-hydroxyethyl)poly(difluoromethylene) (1:1)",NO,NO,NO,YES,Pounds,0.11,0.0,0.0,0.0,0.0,0.0,132.0
+"Poly[oxy(methyl-1,2-ethanediyl)], α-[2-[ethyl[(heptadecafluorooctyl)sulfonyl]amino]ethyl]-ω-hydroxy-",NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Polybrominated biphenyls,NO,YES,NO,NO,Pounds,0.0,0.0,1894.0,0.0,0.0,0.0,0.0
+Polychlorinated alkanes (C10-C13),NO,NO,NO,NO,Pounds,9.65,0.0,504.0,0.0,0.0,0.0,39316.0
+Polychlorinated biphenyls,NO,YES,YES,NO,Pounds,31.154294999999998,1.4001,3047586.8855410004,0.19,13.0,149.44,5747.7
+Polycyclic aromatic compounds,NO,YES,YES,NO,Pounds,252655.408743,5620.846158,321044.534128,20017.257,1117.332,1271.76,1762259.50555
+Potassium N-methyldithiocarbamate,NO,NO,NO,NO,Pounds,10.0,0.0,356.0,0.0,0.0,0.0,0.0
+Potassium bromate,NO,YES,NO,NO,Pounds,15.0,0.0,0.0,0.0,0.0,0.0,0.0
+Potassium dimethyldithiocarbamate,NO,NO,NO,NO,Pounds,206.0,0.0,0.8,0.0,0.0,0.0,0.0
+Potassium perfluorooctanesulfonate,NO,NO,NO,YES,Pounds,0.2,0.0,7000.0,0.0,0.0,0.0,0.0
+Prometryn,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Pronamide,NO,NO,NO,NO,Pounds,0.014,0.0,0.0,0.0,0.0,0.0,0.0
+Propachlor,NO,NO,NO,NO,Pounds,0.01,0.0,0.026,0.024,0.0,0.0,0.0
+Propanil,NO,NO,NO,NO,Pounds,1000.0,0.0,50884.24,0.0,0.0,0.0,0.0
+Propargite,NO,NO,NO,NO,Pounds,307.68,0.0,0.0,0.0,0.0,0.0,0.0
+Propargyl alcohol,NO,NO,NO,NO,Pounds,496.79600000000005,0.0,90.75299999999999,0.005,0.0,0.0,0.0
+Propiconazole,NO,NO,NO,NO,Pounds,2591.48,1179.0,23058.35,0.0,0.0,0.0,8981.15
+Propionaldehyde,NO,NO,NO,NO,Pounds,152700.69,19727.05,476.74,129052.7,1.0,0.0,0.0
+Propoxur,NO,NO,NO,NO,Pounds,0.2,0.0,0.0,0.0,0.0,0.0,0.0
+Propylene,NO,NO,NO,NO,Pounds,6962481.23315,85.3,664.0,24000.0,54.0,0.0,4977.8
+Propylene oxide,NO,YES,NO,NO,Pounds,293848.44651599997,1288.0,120.76,25546.0,0.0,0.0,1.0
+Propyleneimine,NO,YES,NO,NO,Pounds,982.9,0.0,0.0,0.0,0.0,0.0,0.0
+Pyridine,NO,YES,NO,NO,Pounds,26274.113,63.0,2506.552,528054.11,0.0,0.0,18469.88
+Quinoline,NO,YES,NO,NO,Pounds,341.2627,0.0,15871.0982,0.0,0.0,0.0,0.0
+Quinone,NO,NO,NO,NO,Pounds,30.049999999999997,0.0,67.0,0.0,0.0,0.0,0.0
+Quintozene,NO,NO,NO,NO,Pounds,79.834,0.0,60.25,0.0,0.0,0.0,0.0
+"S,S,S-Tributyltrithiophosphate",NO,NO,NO,NO,Pounds,10.1,0.0,0.0,0.0,0.0,0.0,0.0
+S-Ethyl dipropylthiocarbamate,NO,NO,NO,NO,Pounds,7.5,0.0,0.0,0.0,0.0,0.0,0.0
+Safrole,NO,YES,NO,NO,Pounds,0.014,0.0,0.0,0.0,0.0,0.0,0.0
+Selenium,YES,NO,NO,NO,Pounds,16980.8878,772.4625,1000712.6508,671.8900000000001,0.0,0.0005,41856.222
+Selenium  And Selenium Compounds,YES,NO,NO,NO,Pounds,33975.346044,4200.87,627836.704,24150.2,318.0,20790.0,28064.02
+Selenium compounds,YES,NO,NO,NO,Pounds,66240.70055,6449.51,1874261.568,353.0,77.22,281719.98,56671.0
+"Siloxanes and Silicones, (3,3,4,4,5,5,6,6,7,7,8,8,9,9,10,10,10-heptadecafluorodecyl)oxy Me, hydroxy Me, Me octyl, ethers with polyethylene glycol mono-Me ether",NO,NO,NO,YES,Pounds,10.0,0.0,0.0,0.0,0.0,0.0,23815.872
+Silver,YES,NO,NO,NO,Pounds,1238.4863010000001,17.58,65914.2782,0.0,72.0,2.9605,936676.626
+Silver And Silver Compounds,YES,NO,NO,NO,Pounds,14517.955042,140.64999999999998,129767.12,9391.53,0.0,28301.0,488983.69
+Silver compounds,YES,NO,NO,NO,Pounds,418.28,1018.78,55802.81,30.0,0.0,146196.0,314211.32
+Simazine,NO,NO,NO,NO,Pounds,75.1,5.1,548005.0,0.0,0.0,0.0,0.0
+Sodium azide,NO,NO,NO,NO,Pounds,2.2,0.0,18153.0,0.0,0.0,0.0,8.0
+Sodium dicamba,NO,NO,NO,NO,Pounds,200.11,0.0,20345.0,1.0,0.0,0.0,750.0
+Sodium dimethyldithiocarbamate,NO,NO,NO,NO,Pounds,156.39999999999998,0.0,359255.2,0.0,10.0,0.0,5.0
+Sodium fluoroacetate,NO,NO,NO,NO,Pounds,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+Sodium nitrite,NO,NO,NO,NO,Pounds,76979.9131,1815982.41,1329811.61179,1413713.2,2457.55,0.0,55459.0
+Sodium o-phenylphenoxide,NO,YES,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Strychnine and salts,NO,NO,NO,NO,Pounds,2.0,0.0,19000.0,0.0,0.0,0.0,0.0
+Styrene,NO,YES,NO,NO,Pounds,30968120.71547,11221.81499,1761720.533,198566.396,5904.346,12888.01,194780.6534
+Styrene oxide,NO,YES,NO,NO,Pounds,2.8,0.0,0.0,0.0,0.0,0.0,0.0
+Sulfluramid,NO,NO,NO,YES,Pounds,0.0,0.8,0.0,0.0,0.0,0.0,0.0
+"Sulfonic acids, C6-12-alkane, γ-ω-perfluoro, ammonium salts",NO,NO,NO,YES,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Sulfuric acid (acid aerosols including mists, vapors, gas, fog, and other airborne forms of any particle size)",NO,NO,NO,NO,Pounds,50034527.895792,0.0,525915.0,0.0,0.0,225.0,479970.5008
+Sulfuryl fluoride,NO,NO,NO,NO,Pounds,292346.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tebuthiuron,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Terbacil,NO,NO,NO,NO,Pounds,0.0,0.0,82.0,0.0,0.0,0.0,0.0
+Tetrabromobisphenol A,NO,NO,YES,NO,Pounds,7629.6392,10.0,151215.55,0.0,10.0,0.0,0.0
+Tetrachloroethylene,NO,YES,NO,NO,Pounds,781093.2815,596.876,51228.465736,3.409,3.001,0.0,4116882.344567
+Tetrachlorvinphos,NO,YES,NO,NO,Pounds,30.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tetracycline hydrochloride,NO,NO,NO,NO,Pounds,132.79999999999998,0.0,4623.0,0.0,0.0,0.0,0.0
+Tetrafluoroethylene,NO,YES,NO,NO,Pounds,111382.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tetramethrin,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Thallium,YES,NO,NO,NO,Pounds,1.877868,0.2,10211.25,0.0,0.0,0.0,0.0
+Thallium  And Thallium Compounds,YES,NO,NO,NO,Pounds,119.39999999999999,0.0,93976.0,0.0,0.0,11000.0,0.0
+Thallium compounds,YES,NO,NO,NO,Pounds,922.06,516.0,393693.13289,15.0,0.0,593314.0,5345.0
+Thiabendazole,NO,NO,NO,NO,Pounds,13.299999999999999,5088.0,221.37,0.0,0.0,0.0,0.0
+Thioacetamide,NO,YES,NO,NO,Pounds,4.013999999999999,0.0,0.0,0.0,0.0,0.0,0.0
+Thiobencarb,NO,NO,NO,NO,Pounds,500.0,0.0,0.0,0.0,0.0,0.0,0.0
+Thiodicarb,NO,NO,NO,NO,Pounds,755.77,0.0,3.2,0.0,0.0,0.0,0.0
+"Thiols, C8-20, γ-ω-perfluoro, telomers with acrylamide",NO,NO,NO,YES,Pounds,0.0,0.0,27000.0,0.0,0.0,0.0,0.0
+Thiophanate-methyl,NO,NO,NO,NO,Pounds,31.200000000000003,0.0,15405.0,0.0,0.0,0.0,0.0
+Thiourea,NO,YES,NO,NO,Pounds,266.077,0.0,18048.0,0.0,0.0,2578.0,0.0
+Thiram,NO,NO,NO,NO,Pounds,1086.899042,16.419999999999998,33266.509586,0.0,0.0,0.0,3986.69
+Thorium dioxide,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Titanium tetrachloride,NO,NO,NO,NO,Pounds,19301.6104,0.0,604.0,0.0,0.0,0.0,0.0
+Toluene,NO,NO,NO,NO,Pounds,14211084.438110001,5994.827,436551.394331,185158.954759,6019.3636,2847.36,12798115.8904
+Toluene diisocyanate (mixed isomers),NO,YES,NO,NO,Pounds,13848.08423,0.0,38424.338,48456.088,0.0,1094.0,1027.0
+"Toluene-2,4-diisocyanate",NO,YES,NO,NO,Pounds,557.94899,0.0,2.283,0.256,0.0,0.0,762.0
+"Toluene-2,6-diisocyanate",NO,YES,NO,NO,Pounds,144.61728,0.0,78.012,0.01,0.0,0.0,250.0
+Toxaphene,NO,YES,YES,NO,Pounds,121.681,0.0,12529.146999999999,34.007,0.0,0.0,433.0
+Trade Secret,NO,NO,NO,NO,Pounds,15394.968,47.0,82.0,0.0,0.0,0.0,0.0
+Triadimefon,NO,NO,NO,NO,Pounds,1.53,0.0,6.35,0.0,0.0,0.0,0.0
+Triallate,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Tribenuron-methyl,NO,NO,NO,NO,Pounds,2290.4,0.0,21405.0,0.0,0.0,0.0,0.0
+Tributyltin methacrylate,NO,NO,NO,NO,Pounds,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Trichlorfon,NO,NO,NO,NO,Pounds,0.0,0.0,2236.0,0.0,0.0,0.0,0.0
+Trichloroacetyl chloride,NO,NO,NO,NO,Pounds,8.6,0.0,0.0,0.0,0.0,0.0,0.0
+Trichloroethylene,NO,YES,NO,NO,Pounds,1004133.55901,326.58,11613.454,0.112,0.0,0.0,1659176.29
+Trichlorofluoromethane (CFC-11),NO,NO,NO,NO,Pounds,209465.675,52.0,3.0,0.0,0.0,0.0,151.0
+Triclopyr-triethylammonium salt,NO,NO,NO,NO,Pounds,26.53,0.0,0.0,0.0,0.0,0.0,0.0
+Triethylamine,NO,NO,NO,NO,Pounds,121352.6171,5163.0,37987.813,433.139,0.0,0.0,55358.7705
+Trifluralin,NO,NO,YES,NO,Pounds,427.87269499999996,0.3,16841.84,0.0,0.0,0.0,0.0
+Triphenyltin hydroxide,NO,NO,NO,NO,Pounds,1.8,0.0,0.02,0.0,0.0,0.0,0.0
+"Tris(2,3-dibromopropyl) phosphate",NO,YES,NO,NO,Pounds,0.014,0.0,0.0,0.0,0.0,0.0,0.0
+Trypan blue,NO,YES,NO,NO,Pounds,4.155,0.0,18000.0,0.0,0.0,0.0,0.0
+Urethane,NO,YES,NO,NO,Pounds,130.671,0.0,79204.256,0.232,0.0,0.0,2937.0
+Vanadium (except when contained in an alloy),NO,NO,NO,NO,Pounds,7791.65,3260.91,615736.26,0.0,6.0,5.54,167097.4
+Vanadium compounds,YES,NO,NO,NO,Pounds,162414.785169,371872.9581,16499319.9411,1500415.002597,134338.89,9017920.426,1034953.329
+Vinclozolin,NO,NO,NO,NO,Pounds,0.0,0.0,34664.0,0.0,0.0,0.0,0.0
+Vinyl acetate,NO,YES,NO,NO,Pounds,916448.643303,8099.0,38302.1498,146856.045,0.678,0.0,1835757.55
+Vinyl chloride,NO,YES,NO,NO,Pounds,428184.883026,48.52,139.826,0.005,0.0,0.0,5234.67033
+Vinyl fluoride,NO,YES,NO,NO,Pounds,131017.6,0.0,0.0,0.0,0.0,0.0,0.0
+Vinylidene chloride,NO,YES,NO,NO,Pounds,62997.132,29.0,115118.31599999999,0.005,0.0,0.0,35589.05
+Warfarin and salts,NO,NO,NO,NO,Pounds,6.1000000000000005,0.0,39000.03,0.027,0.0,0.0,0.0
+Xylene (mixed isomers),NO,NO,NO,NO,Pounds,10231996.33649,6826.63168,604245.0205999999,314383.280118,913.7236,1807.09,13283658.8212
+Zinc (fume or dust),NO,NO,NO,NO,Pounds,235983.78840000002,0.0,3570428.74,46.15,188537.0,344969.0,17068475.95
+Zinc compounds,YES,NO,NO,NO,Pounds,2389910.794245,982443.265917,113209969.35505001,8224749.1616,847214.2100000001,268226014.46759498,510998041.4436
+Zineb,NO,NO,NO,NO,Pounds,0.1,0.0,0.0,0.0,0.0,0.0,0.0
+alpha-Naphthylamine,NO,YES,NO,NO,Pounds,10.0,0.0,0.0,0.0,0.0,0.0,0.0
+beta-Naphthylamine,NO,YES,NO,NO,Pounds,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+m-Cresol,NO,NO,NO,NO,Pounds,8767.464,617.614,57.54,587226.0,0.0,0.0,706.0
+m-Dinitrobenzene,NO,NO,NO,NO,Pounds,3.0,0.0,0.0,0.0,0.0,0.0,0.0
+m-Xylene,NO,NO,NO,NO,Pounds,206329.5002,188.65,566.0,0.0,0.0,0.0,15765.7
+n-Butyl alcohol,NO,NO,NO,NO,Pounds,7751253.885834001,43295.3653,80594.8436,754292.322,22.0,19000.0,2858711.4981
+n-Hexane,NO,NO,NO,NO,Pounds,37674210.52131,2273.421002,104845.586,252390.978,1442.2366000000002,881.11,2034862.9015
+o-Anisidine,NO,YES,NO,NO,Pounds,1270.0,0.0,0.0,0.0,0.0,0.0,0.0
+o-Cresol,NO,NO,NO,NO,Pounds,3022.6828000000005,134.2,0.0,202537.61,0.0,0.0,6046.0
+o-Toluidine,NO,YES,NO,NO,Pounds,5546.21,198.0,0.0,0.0,0.0,5.0,0.0
+o-Toluidine hydrochloride,NO,YES,NO,NO,Pounds,0.02,0.0,0.0,0.0,0.0,0.0,0.0
+o-Xylene,NO,NO,NO,NO,Pounds,176012.7788,118.23,380.49,30175.0,0.0,0.0,6701.5
+p-Chloroaniline,NO,YES,NO,NO,Pounds,76.08,50.0,0.0,0.0,0.0,0.0,0.0
+p-Cresidine,NO,YES,NO,NO,Pounds,1.48,0.0,0.0,0.0,0.0,0.0,0.0
+p-Cresol,NO,NO,NO,NO,Pounds,3516.4350000000004,278.9,6.64,293615.0,0.0,0.0,455.0
+p-Nitroaniline,NO,NO,NO,NO,Pounds,49.6,0.0,0.0,0.0,0.0,0.0,0.0
+p-Phenylenediamine,NO,NO,NO,NO,Pounds,1471.21,85.0,0.0,81.29,0.0,0.0,10.0
+p-Xylene,NO,NO,NO,NO,Pounds,492420.7563,50.02,5289.0,0.0,0.0,0.0,4383.8
+sec-Butyl alcohol,NO,NO,NO,NO,Pounds,170419.4676,953.0,3341.62,20.0,0.0,0.0,15839.57
+tert-Butyl alcohol,NO,NO,NO,NO,Pounds,259409.9933,6743.0,26908.01,300339.4,130.6,0.0,160307.88
+"trans-1,4-Dichloro-2-butene",NO,NO,NO,NO,Pounds,6.0,0.0,0.0,0.0,0.0,0.0,0.0

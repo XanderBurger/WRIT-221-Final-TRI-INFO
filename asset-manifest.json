@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/css/main.d42d68dc.css",
+    "main.js": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/js/main.43f89940.js",
+    "static/media/LibreCaslonText-Italic.ttf": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/media/LibreCaslonText-Italic.3c4fbd45d0aa4b91005b.ttf",
+    "static/media/LibreCaslonText-Regular.ttf": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/media/LibreCaslonText-Regular.c8dde9a2aa0d7f5606e2.ttf",
+    "static/media/LibreCaslonText-Bold.ttf": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/media/LibreCaslonText-Bold.e68976fc55f4c21300f0.ttf",
+    "static/media/finalDataCombinedRounded.csv": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/media/finalDataCombinedRounded.011629065ea133e96ac6.csv",
+    "static/media/topSurface.csv": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/media/topSurface.fcd4fede6927f3d72737.csv",
+    "static/media/topRecycled.csv": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/media/topRecycled.8ca191f6ce69ca1e77b9.csv",
+    "static/media/topLandfill.csv": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/media/topLandfill.3a12dcb63f5324cb5364.csv",
+    "static/media/topWater.csv": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/media/topWater.d55ad311f3b2dad67049.csv",
+    "static/media/topLand.csv": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/media/topLand.17c9478301c6cdc7bbd4.csv",
+    "static/media/topUnderground.csv": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/media/topUnderground.3676e7121e8f91f6e098.csv",
+    "static/media/topAir.csv": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/media/topAir.5ed3ab131b4fd4b4e839.csv",
+    "index.html": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/index.html",
+    "main.d42d68dc.css.map": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/css/main.d42d68dc.css.map",
+    "main.43f89940.js.map": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/js/main.43f89940.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d42d68dc.css",
+    "static/js/main.43f89940.js"
+  ]
+}
