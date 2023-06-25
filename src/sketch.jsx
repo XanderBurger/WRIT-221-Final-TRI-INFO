@@ -95,7 +95,6 @@ export default function Sketch({graph}) {
         }
         
         p5.preload = () => {
-            data = p5.loadTable(csvData, "csv", "header")
             topAir = p5.loadTable(topAirData, "csv", "header")
             topLand = p5.loadTable(topLandData, "csv", "header")
             topLandfill = p5.loadTable(topLandfillData, "csv", "header")
@@ -118,10 +117,6 @@ export default function Sketch({graph}) {
         }
 
         p5.setup = () => {
-            var sum = data.getColumn("Total Underground").reduce((accumulator, currentValue) => {
-                return parseInt(accumulator) + parseInt(currentValue)
-              }, 0);
-            console.log(sum)
             
             p5.createCanvas(900, 800)
             p5.background("#1D8E63")
