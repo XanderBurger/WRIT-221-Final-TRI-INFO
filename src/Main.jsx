@@ -21,13 +21,13 @@ export default function Main() {
             <p>
             
                 The TRI or Toxic Release Inventory is a program run by the EPA to provide transparency on how and where chemicals that are harmful to human health are released into the environment. The program requires facilities to report where, how, and what chemicals are being disposed of. This data is then gathered by the EPA and released to the public. <sup>1</sup>
-
+            </p>
             <h3>History</h3>
-
+            <p>
                 The TRI was established following the 1984 Bhopal Chemical Plant disaster which led to the death of thousands in India after a toxic gas leak, and a series of similar chemical leaks at a plant in West Virginia. Congress passed the Right-to-Know Act in 1986 which created the Toxic Release Inventory. Every year since designated facilities are required to report their chemical releases. <sup>1</sup> 
-
+            </p>
             <h3>About The Graphs</h3>
-            
+            <p>
                 These graphs are a summary of the most common disposal types reported by the TRI and the 20 most released chemicals in that disposal type. Also noted is if the chemical is classified as a carcinogen or Persistent Bioaccumulative Toxic (PBT) chemical. <sup>2, 3, 4, 5</sup>
 
             </p>
