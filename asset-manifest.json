@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/css/main.d42d68dc.css",
-    "main.js": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/js/main.4cb4f780.js",
+    "main.js": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/js/main.3a48cfca.js",
     "static/media/LibreCaslonText-Italic.ttf": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/media/LibreCaslonText-Italic.3c4fbd45d0aa4b91005b.ttf",
     "static/media/LibreCaslonText-Regular.ttf": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/media/LibreCaslonText-Regular.c8dde9a2aa0d7f5606e2.ttf",
     "static/media/LibreCaslonText-Bold.ttf": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/media/LibreCaslonText-Bold.e68976fc55f4c21300f0.ttf",
@@ -14,10 +14,10 @@
     "static/media/topAir.csv": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/media/topAir.5ed3ab131b4fd4b4e839.csv",
     "index.html": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/index.html",
     "main.d42d68dc.css.map": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/css/main.d42d68dc.css.map",
-    "main.4cb4f780.js.map": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/js/main.4cb4f780.js.map"
+    "main.3a48cfca.js.map": "/XanderBurger/WRIT-221-Final-TRI-INFO.git/static/js/main.3a48cfca.js.map"
   },
   "entrypoints": [
     "static/css/main.d42d68dc.css",
-    "static/js/main.4cb4f780.js"
+    "static/js/main.3a48cfca.js"
   ]
 }
