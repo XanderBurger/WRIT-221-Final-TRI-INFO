@@ -1,14 +1,14 @@
 import React from 'react'
 import { ReactP5Wrapper } from "react-p5-wrapper";
-import topAirData from "/src/Assets/data/dataByDisposalType/topAir.csv"
-import topLandData from "/src/Assets/data/dataByDisposalType/topLand.csv"
-import topLandfillData from "/src/Assets/data/dataByDisposalType/topLandfill.csv"
-import topRecycledData from "/src/Assets/data/dataByDisposalType/topRecycled.csv"
-import topSurfaceData from "/src/Assets/data/dataByDisposalType/topSurface.csv"
-import topUndergroundData from "/src/Assets/data/dataByDisposalType/topUnderground.csv"
-import topWaterData from "/src/Assets/data/dataByDisposalType/topWater.csv"
+import topAirData from "./Assets/data/dataByDisposalType/topAir.csv"
+import topLandData from "./Assets/data/dataByDisposalType/topLand.csv"
+import topLandfillData from "./Assets/data/dataByDisposalType/topLandfill.csv"
+import topRecycledData from "./Assets/data/dataByDisposalType/topRecycled.csv"
+import topSurfaceData from "./Assets/data/dataByDisposalType/topSurface.csv"
+import topUndergroundData from "./Assets/data/dataByDisposalType/topUnderground.csv"
+import topWaterData from "./Assets/data/dataByDisposalType/topWater.csv"
 
-import caslonBold from "/src/Assets/fonts/LibreCaslonText-Bold.ttf"
+import caslonBold from "./Assets/fonts/LibreCaslonText-Bold.ttf"
 
 
 export default function Sketch({graph}) {

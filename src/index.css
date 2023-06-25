@@ -7,17 +7,17 @@
 
 @font-face {
     font-family: "LibreCaslonRegular";
-    src: local("LibreCaslonText-Regular"), url(/src/Assets/fonts/LibreCaslonText-Bold.ttf) format('opentype');
+    src: local("LibreCaslonText-Regular"), url(./Assets/fonts/LibreCaslonText-Bold.ttf) format('opentype');
 }
 
 @font-face {
     font-family: "LibreCaslonItalic";
-    src: local("LibreCaslonText-Italic"), url(/src/Assets/fonts/LibreCaslonText-Italic.ttf) format('opentype');
+    src: local("LibreCaslonText-Italic"), url(./Assets/fonts/LibreCaslonText-Italic.ttf) format('opentype');
 }
 
 @font-face {
     font-family: "LibreCaslonBold";
-    src: local("LibreCaslonText-Bold"), url(/site/src/Assets/fonts/LibreCaslonText-Bold.ttf) format('opentype');
+    src: local("LibreCaslonText-Bold"), url(./Assets/fonts/LibreCaslonText-Bold.ttf) format('opentype');
 }
 
 
