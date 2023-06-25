@@ -1,0 +1,60 @@
+.mainBody {
+    display: grid;
+    grid-template-areas: 
+    "header header"
+    "bodyText graph"
+    "footer footer";
+    grid-template-columns: 6fr 10fr;
+    margin: 45px;
+}
+
+.mainBody .header {
+    grid-area: header;
+    width: 100%;
+    border-bottom: white solid 2pt;
+    
+}
+
+.mainBody .header h1{
+    margin: 0;
+}
+
+.mainBody .header h2{
+    margin: 0;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+
+.mainBody .bodyText {
+    grid-area: bodyText;
+    /* overflow-y: scroll; */
+    width: 100%;
+    margin-top: 15px;
+    padding-right: 27px;
+    border-right: white solid 2pt;
+}
+
+
+.mainBody .graph {
+    padding-left: 45px;
+    grid-area: graph;
+    margin-top: 15px;
+    width: 100%;
+    overflow-x: hidden;
+    padding-left: 60px;
+}
+
+.mainBody .graph h3 {
+    font-size: 18pt;
+    margin-bottom: 0px;
+    margin-top: 15px;
+}
+
+.mainBody .footer{
+    margin-top: 45px;
+    grid-area: footer;
+}
+
+.mainBody .footer{
+    font-family: libreCaslonItalic;
+}

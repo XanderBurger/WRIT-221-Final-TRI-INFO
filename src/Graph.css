@@ -1,0 +1,62 @@
+.graphButtons{
+    padding: 20px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+
+.graphButtons > button{
+    font-family: libreCaslonRegular;
+    background-color: var(--green);
+    color: white;
+    border: solid white 2px;
+    border-radius: 20px;
+    padding: 7px;
+    margin: 5px;
+}
+
+.graphButtons > button:hover{
+    background-color: white;
+    color: var(--green);
+}
+
+.typeDescription{
+    margin-top: 20px;
+    border-top: solid white 2px;
+    width: 80%;
+    padding-top: 15px;
+}
+
+.key{
+    display: flex;
+    align-items: center;
+    margin-bottom: 25px;
+}
+
+.key > p{
+    font-family: libreCaslonItalic;
+}
+
+.keyTitle{
+    font-family: libreCaslonBold;
+    font-size: 14px;
+    margin-right: 20px;
+}
+
+.carcinogen{
+    font-family: libreCaslonItalic;
+    margin: 5px;
+    margin-right: 20px;
+    background-color: #EA7979;
+    width: 15px;
+    height: 15px;
+}
+
+.PBT{
+  
+    margin: 0px;
+    background-color: #F2CE6D;
+    width: 15px;
+    height: 15px;
+}

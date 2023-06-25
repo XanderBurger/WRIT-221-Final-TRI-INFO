@@ -1,11 +1,12 @@
 import './App.css';
 import Sketch from './sketch';
+import Main from './Main';
 
 function App() {
   return (
-    <div className="App">
-      <Sketch/>
-    </div>
+    <>
+      <Main/>
+    </>
   );
 }
 
